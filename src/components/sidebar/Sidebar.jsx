@@ -8,8 +8,8 @@ export default function Sidebar() {
         <span className="sidebarTitle">ABOUT ME</span>
         
         <p>
-          Laboris sunt aute cupidatat velit magna velit ullamco dolore mollit
-          amet ex esse.Sunt eu ut nostrud id quis proident.
+         BHARATH KUMAR K
+          Bangalore
         </p>
       </div>
       <div className="sidebarItem">
