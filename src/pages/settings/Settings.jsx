@@ -10,11 +10,11 @@ export default function Settings() {
           <span className="settingsTitleDelete">Delete Account</span>
         </div>
         <form className="settingsForm">
-          <label>Profile Picture</label>
+          <label></label>
           <div className="settingsPP">
             <img
-              src="https://images.pexels.com/photos/6685428/pexels-photo-6685428.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
-              alt=""
+              src=" "
+              alt=" "
             />
             <label htmlFor="fileInput">
               <i className="settingsPPIcon far fa-user-circle"></i>{" "}
